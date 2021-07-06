@@ -1,0 +1,4 @@
+*.vtu
+*.pvd
+*.png
+.ipynb_checkpoints
