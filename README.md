@@ -1,4 +1,6 @@
 # ICEX2018-Data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5076486.svg)](https://doi.org/10.5281/zenodo.5076486)
+
 Data and models to accompany the manuscript "Observations of Stress-Strain in Drifting Sea Ice at Floe Scale"
 
 ## Data Description
